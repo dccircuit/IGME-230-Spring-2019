@@ -63,7 +63,8 @@ For the exam, be able to write complete CSS rules from memory.
 1. What does `display:inline-block` do?
 1. What does `display:flex` do?
 1. What does `display:grid` do?
-1. what does `float:left` do?
+1. What does `float:left` do?
+1. What CSS rules causes the element it's applied upon to show below a floated elment?
 1. Define `inline`, `internal`, and `external` style sheets.
 1. If these 3 types of styles conflict, which one usually "wins"?
 1. Imagine we write a CSS rule that effects the `color` of elements in the &lt;body> tag - which elements on the page will *inherit* the value of this property? 
@@ -83,14 +84,25 @@ For the exam, be able to write complete CSS rules from memory.
 1. What is the CSS property we use to define whether/how quickly a property will animate when changed?
 1. Be familiar with the [box model and advanced CSS selectors shown here](../weekly/week-02B-notes.md)
 
+## F. More CSS Layout / Flexbox / Grid
+1. How do block elements align themselves with each other in the normal flow of an HTML page?
+1. In contrast, how do inline elements behave?
+1. What CSS property can be changed to make inline elements behave like blocks and vice-versa?
+1. What elements are affected when `display:flex` or `display:grid` is applied to a container element?  ie: which elements become "items" in that layout system?
+1. Know the basic functionality of `flex-direction`, `align-items`, `justify-content`
+1. What does `flex-wrap` allow to happen?
+1. How do you use `grid-template-rows` and `grid-template-columns` to divide your page?
+1. If you define element names with `grid-area`, what do you use to define what named sections go where in your layout?
+1. How do you make a section of CSS apply only at certain screen widths?
 
-## F. CSS Rollovers
+## G. CSS Rollovers
 1. Give the 4 CSS `pseudo selectors` that are used to create CSS rollover effects.
+1. What CSS property defines when and how a numeric element property can change over time?  (ie: simple animation, but we aren't talking about the "animation" property)
 
-## G. Markdown
+## H. Markdown
 1. Know the basic Markdown syntax (headings, lists, etc)
 
-## H. Web Publishing
+## I. Web Publishing
 1. When to use *serif*, *sans-serif*, and *decorative* fonts
 1. What image file format(s) should generally be used for photographs?
 1. What image file format(s) should generally be used for web graphics such as logos and banners?
@@ -102,30 +114,40 @@ For the exam, be able to write complete CSS rules from memory.
 1. What is the `name` of the &lt;meta> tag you will need to add to all of your responsive (and mobile friendly) web pages?
 1. What properties of the browser does a media query commonly "test" for?
 
-## I. Website Design Process
+## J. Website Design Process
 1. See [Week 5 Notes](https://github.com/dccircuit/IGME-230-Spring-2019/blob/master/weekly/week-05A-notes.md)
 
-## J. PHP
+## K. PHP
 - See review questions for all 4 PHP chapters: [About this PHP Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-0.md)
+1. Know the difference between push, pop, shift, and unshift as it relates to manipulating arrays
+1. Know how a variable is represented in PHP
+1. Be able to identify the `$_SERVER` super global.
+1. Understand the purpose of the `strip_tags()` function as it relates to user-generated input.
+1. Understand that PHP code should never appear in a browser and why.
+1. Know about `phpinfo()`
 
-## K. Introduction to Web Applications
+## L. Frameworks and Libraries
+1. Understand what Bootstrap is and what it's useful for.
+1. Understand what jQuery is and what it's useful for.
+
+## M. Introduction to Web Applications
 For the midterm exam, you will be responsible for the first 5 parts of this web apps series:
 
 1. [Introduction to Web Applications](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-1.md)
 2. [Introduction to JavaScript](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-2.md)
 3. [Introduction to the Web Browser DOM](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-3.md)
 4. [More Web Browser DOM Methods](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-4.md)
-5. [JavaScript Functions](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-5.md)
+5. <s>[JavaScript Functions](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-5.md)</s>
 
 
-- **Be sure to focus on the Discussion/Review sections and their questions for each of the 5 above pages!**
+- **Be sure to focus on the Discussion/Review sections and their questions for each of the <s>5</s>(4!) above pages!**
 - **Be able to write some JavaScript from memory!**
 
 You can access all of these web app tutorial pages from here: 
 [https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
 
 
-## L. Sample *short answer* questions
+## N. Sample *short answer* questions
 
 1. Write JavaScript that loops through the `foods` array and produces the HTML necessary for an unordered list containing the array’s contents.
 
