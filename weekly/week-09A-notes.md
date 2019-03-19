@@ -2,6 +2,9 @@
 
 ## I. Review Midterm Exam
 
+## II. JavaScript Functions
+- [5 - JavaScript Functions](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-5.md) 
+
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
