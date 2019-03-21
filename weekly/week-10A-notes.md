@@ -1,4 +1,4 @@
-# Week 10A
+# Week 10A Notes
 
 ## I. JavaScript Arrays & Web Storage
 We will cover parts VIII (Arrays), IX (Web Storage) and X (Web Services) of the web app tutorial. The links to these pages are here:
