@@ -38,5 +38,5 @@ As always, keep an eye on the myCourses dropboxes, both the descriptions and due
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-09B-notes.md**](week-09B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-10A-notes.md**](week-10A-notes.md)
+| [**week-09B-notes.md**](week-09B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-10B-notes.md**](week-10B-notes.md)
 
