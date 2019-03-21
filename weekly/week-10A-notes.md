@@ -1,3 +1,5 @@
+# Week 10A
+
 ## I. JavaScript Arrays & Web Storage
 We will cover parts VIII (Arrays), IX (Web Storage) and X (Web Services) of the web app tutorial. The links to these pages are here:
 
@@ -33,3 +35,8 @@ The [Chibi Matching demo](https://github.com/tonethar/IGME-230-Master/tree/maste
 As always, keep an eye on the myCourses dropboxes, both the descriptions and due dates. These will help you keep track of what is due/when, and what you should be working on.
 
 <hr><hr>
+
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-09B-notes.md**](week-09B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-10A-notes.md**](week-10A-notes.md)
+
