@@ -12,10 +12,9 @@ We will be going over the functionality and some code on the [GIF Finder](https:
 
 - what a web service is.
 - how to connect to a web service, pass arguments to it, and download a response, and parse the results.
-- how to import the jQuery library, and utilize [`jQuery.ajax()`](http://api.jquery.com/jquery.ajax/)
 
 ### II-A. Web Service Demo
-- Here are some of the APIs we will be using:
+- Here are some of the APIs we may be using:
     - https://github.com/jdorfman/awesome-json-datasets
     - https://github.com/toddmotto/public-apis
     - https://coinmarketcap.com/api/
