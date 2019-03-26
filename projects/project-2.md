@@ -98,6 +98,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 ## III. Milestones
 - Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
+- Prototype - You should have a working version of your project for others to provide feedback on.  At a bare minimum, you should demonstrate functionality of your API call with results displayed on screen.  see myCourses for due date/time. 
 - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
