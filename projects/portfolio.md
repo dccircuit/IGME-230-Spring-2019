@@ -1,4 +1,4 @@
-# Portfolio (DRAFT - undergoing modification).
+# Portfolio (rubric changes pending).
 ## 1. Overview
 One thing that we hear again and again from employers is how essential it is for GDD and NMID students to have a portfolio of "passion projects" (or side projects outside of class) to demonstrate their talent and passion for creating games and interactive experiences. The most common way to let others see these projects is by posting them to the Web in a formal portfolio. 
 
@@ -74,7 +74,6 @@ Some other examples are here:
 ## 5. Technology Requirements
 - Semantic, valid HTML
 - Well-structured, valid CSS
-- Semantic HTML
 - Images and other media are properly optimized (both file size, image format, and image dimensions) for screen display
 
 ## 6. Documentation Requirements (submit to dropbox in a PDF file)
@@ -84,13 +83,21 @@ Some other examples are here:
 - What you did to go beyond the base expectations for the project--what did you do that was particularly challenging? This could involve art/design, content, or code. 
 
 ## 7. Final Submission and Due Date
-The site must be placed in a portfolio directory inside of your igme230 directory (`http://people.rit.edu/youruserid/230/portfolio/`), and you should add a link to your portfolio from your project 1 page.
+The site must be placed in a portfolio directory inside of your igme230 directory (`http://people.rit.edu/youruserid/230/portfolio/`), and you should add a link to your portfolio from your project 1 page.  (Later, if you wish to make this portfolio your public, portfolio for prospective employers to look at, we recommend that you move it to a different URL (not within your 230 subdirectory), but you might want to wait until you get feedback on your presentation.)
 
-- See dropbox for due date
-- The page should display properly at the URL specified above by that time
-- ZIP and Post the project to mycourses, and put a link to the URL in the comments field of the dropbox
+- You should be prepared to present your portfolio  by the time of our Final Exam (during Finals week).
+- The page should display properly at the URL specified above by that time.
+- ZIP and Post the portfolio (as well as your documentation) to mycourses, and put the URL to it in the comments field of the dropbox
 
 ## 8. Grading
+
+### This semester's rubric:
+We are adjusting this rubric, still, but your Portfolio itself will count as a triple-homework assignment:  (Roughly broken down this way).
+ - A third of the points will be awarded for the in-class presentation and documentation.
+ - A third of the points will be for the appropriateness and quality of the content you select and describe in your portfolio.
+ - A third of the points will be for the functional and visual aspects of the portfolio page itself.
+
+### Previous semester's rubric to give you some idea: (this will be adjusted)
 If you complete all required components with no errors, you'll earn 17/20 points, or 85%. In order to go above that, you need to really impress with additional features, excellent design, polished content, and so on.
 
 Requirement | Possible Points (20) |
