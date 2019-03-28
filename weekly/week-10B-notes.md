@@ -1,5 +1,8 @@
 # Week 10B - Portfolios
 
+## 0. HW Review
+ - We'll start with some homework review for Web Apps IV-VIII as well as a quick look at some Random Phrases & Image Gallery HWs
+
 ## I. Topics
 - Types of portfolios
 - What goes into a portfolio
