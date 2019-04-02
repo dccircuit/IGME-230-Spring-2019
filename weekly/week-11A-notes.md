@@ -2,9 +2,10 @@
 
 ## Overview
 - Finish discussing Portfolio expectations.
+  - [Web Portfolio assignment](../projects/portfolio.md)
 - Discuss Project 2 timeline.
 - Discuss Frameworks vs. New browser standards.
-- 12-column grids.
+- multi-column grid systems.
 - Do Skeleton framework demo.
 
 ## Demo
