@@ -1,4 +1,4 @@
-# Project 3 - Sprite-based Game or Experience (DRAFT - DETAILS SUBJECT TO CHANGE)
+# Project 3 - Sprite-based Game or Experience
 
 ## I. Overview
 *Using PixiJS and/or the Browser DOM, create an Interactive Game or Rich Media "experience"*:
