@@ -1,7 +1,7 @@
 # Project 3 - Sprite-based Game or Experience (DRAFT - DETAILS SUBJECT TO CHANGE)
 
 ## I. Overview
-*Using PixiJS, create an Interactive Game or Rich Media "experience"*:
+*Using PixiJS and/or the Browser DOM, create an Interactive Game or Rich Media "experience"*:
 
 - For this project you (and optionally a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1
 - You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea)
@@ -74,19 +74,20 @@ You will use **ONE** of these technology stacks:
 ## IV. Milestones
 - Proposal: Update your site from Project 1 to reflect what you are building for this project - see MyCourses dropbox for the due date
 - Checkpoint: create a working draft of the project - see MyCourses dropbox for the due date
-- Final project deliverable is due during our scheduled finals week meeting - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the mycouses dropbox.
-- At our scheduled final exam time, we will have a show and tell of your projects (see below)
+- Final project deliverable is due during our last week of class - see MyCourses dropbox for the due date and submission instructions. Be sure to post the project to the web, and put the link in the comments field of the mycouses dropbox.
+- On either April 23 (for early bonus points) or 24 (for last possible submission date), we will have a show and tell of your projects (see below)
 
 ## V. Documentation
 - Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
 - If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
 ## VI. Presentation (DETAILS ON THIS BEING WORKED OUT)
-At the time of our scheduled meeting during finals week, you will present your project to the class in a brief demo. **Attendance for this is mandatory.** For this demo, show us:
+During the last week of class, you will present your project in a brief demo. Plan to show us:
 - What you made
 - What's cool, and what you think is "above and beyond"
 - How you overcame any serious challenges
-- Resources utilized (for libraries, tutorials, etc.), if you used any
+- Resources utilized (for libraries, tutorials, etc.), if you used any.
+Depending on your section, there may be a dropbox for "Early Presentation" which will be worth some number of bonus points on your project. But all Projects must be demonstrated by April 25th.  Exact details of how this will work are forthcoming.
 
 ## VII. Grading
 - *Both* partners must contribute equally to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
@@ -119,6 +120,7 @@ Your project will be graded on the following criteria:
 | **Above and Beyond (see below)** | **10** | |
 | **Presentation** | **10** | |
 | **Possible Total Points** | **100** | |
+| Bonus if project is submitted in time for early presentation | +?? | |
 | Deduction if proposal is not updated on time | -20 | |
 | Deduction if prototype is not submitted on time | -20 | |
 | Deduction if final documentation is not submitted on time | -20 | |
