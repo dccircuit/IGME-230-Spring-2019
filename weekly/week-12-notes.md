@@ -1,7 +1,7 @@
 # More PixiJS
 
 ## I. Overview
-This week we will continue working with PixiJS, and complete our game HW, *Circle Blast!*, in preparation for the final project. We will also be looking at some of your Portfolios once those are due.
+This week we will continue working with PixiJS, and build our game HW, *Circle Blast!*, in preparation for the final project. 
 
 ## II. Projects
 - [Project 3 - Sprite-based Game or Experience](https://github.com/dccircuit/IGME-230-Spring-2019/blob/master/projects/project-3.md)
