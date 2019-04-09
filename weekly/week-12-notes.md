@@ -27,4 +27,4 @@ https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-11-notes**](week-11-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-13-notes**](week-13-notes.md)
+| [**week-11B-notes**](week-11B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-13-notes**](week-13-notes.md)
