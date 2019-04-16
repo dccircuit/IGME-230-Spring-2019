@@ -1,4 +1,4 @@
-# Portfolio (rubric changes pending).
+# Portfolio.
 ## 1. Overview
 One thing that we hear again and again from employers is how essential it is for GDD and NMID students to have a portfolio of "passion projects" (or side projects outside of class) to demonstrate their talent and passion for creating games and interactive experiences. The most common way to let others see these projects is by posting them to the Web in a formal portfolio. 
 
@@ -91,29 +91,38 @@ The site must be placed in a portfolio directory inside of your igme230 director
 
 ## 8. Grading
 
-### This semester's rubric:
-We are adjusting this rubric, still, but your Portfolio itself will count as a triple-homework assignment:  (Roughly broken down this way).
+### Rubric:
+Your Portfolio will count as a triple-homework assignment:  (Broken down this way).
+
  - A third of the points will be awarded for the in-class presentation and documentation.
- - A third of the points will be for the appropriateness and quality of the content you select and describe in your portfolio.
- - A third of the points will be for the functional and visual aspects of the portfolio page itself.
-
-### Previous semester's rubric to give you some idea: (this will be adjusted)
-If you complete all required components with no errors, you'll earn 17/20 points, or 85%. In order to go above that, you need to really impress with additional features, excellent design, polished content, and so on.
-
-Requirement | Possible Points (20) |
+ 
+  Requirement | Possible Points (10) |
 ----------- | --------------- |
-All required content present | 3 |
+Presentation | 5 |
+Documentation | 5 |
+
+ - A third of the points will be for the appropriateness and quality of the content you select and describe as well as its visual layout.
+ 
+  Requirement | Possible Points (10) |
+----------- | --------------- |
+Required content present | 3 |
 Written content quality and organization | 3 |
-Responsive Design | 2 |
-Visual Design | 2 |
+Visual Design | 3 |
 Typography | 1 |
+
+ - A third of the points will be for the functional aspects and other requirements of the portfolio itself.
+
+Requirement | Possible Points (10) |
+----------- | --------------- |
+Responsive Design | 2 |
 Semantic, valid HTML | 1 |
 Well-structured, valid CSS | 1 |
-Functional PHP contact form | 1 |
-No major accessibility errors | 1|
-Drop-down navigation menu | 1 |
+Functional PHP contact form | 2 |
+Navigation system | 1 |
 Properly optimized media | 1 |
-"Above and Beyond" | 3 |
+"Above and Beyond" | 2 |
+
+
 
 # 9. Portfolio Guidelines
 - As you begin putting together your portfolio, keep the following in mind:
